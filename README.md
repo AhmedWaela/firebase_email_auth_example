@@ -123,8 +123,3 @@ Think of it like a **restaurant**:
 * **Firebase (Kitchen)** → Creates the account and returns the result
 * **Flutter app** → Receives the response and displays it to the user
 
----
-
-If you want, I can also **rewrite the README with full code integration**, showing **the Flutter button, Dio request, and User model** inline so it’s ready to copy directly into a GitHub README.
-
-Do you want me to do that?
